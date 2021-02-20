@@ -34,8 +34,9 @@ However, at the moment, the project is developed under Linux w/ .NET 5.0, which 
 - [ ] Custom monthStyle (number/short/long)
 - [ ] Custom timeStyle (24hr/12hr) (with colon/no colon)
 #### Globalisation
+##### Timezone
 - [x] Work with different time zone (no split).
 - [ ] Work with time zones that splits one event into two days (e.g. dayA:11:30 pm - dayB:12:30 am)
-##### Language Support
+##### Language
 - [x] en-AU
 - [ ] zh-CN
